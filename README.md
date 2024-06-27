@@ -1,12 +1,28 @@
-## WIP: Hackathon: Usando InstructLab para resolver problemas reais
+## WIP
+
+## Hackathon: Usando InstructLab para resolver problemas reais
 
 **Bem-vindo!**
 
-Este hackathon desafia você a aproveitar o poder do InstructLab para desenvolver soluções inovadoras utilizando LLMs, como o [granite](https://huggingface.co/ibm-granite) ou o [Llama](https://huggingface.co/meta-llama). 
+Este hackathon desafia você a aproveitar o poder do InstructLab para desenvolver soluções inovadoras utilizando LLMs, como o [granite](https://huggingface.co/ibm-granite) ou o [Llama](https://huggingface.co/meta-llama). Com certeza você já utilizou o [ChatGPT](https://chatgpt.com/) para tirar dúvidas ou gerar conteúdo, mas como nem tudo é perfeito, algumas das respostas podem não estar corretas ou o conteúdo gerado pode não estar em um padrão que você gostaria.
+
+Os dados utilizados no treinamento das LLMs são em sua grande maioria dados públicos, como esses modelos poderão responder perguntas se não foram treinados com os dados, normalmente confidenciais, da sua empresa? Essa é uma das respostas que o InstructLab veio para responder.
 
 **O que é InstructLab?**
 
-O InstructLab é uma plataforma que permite adicionar habilidades e conhecimentos as LLMs de um modo extremamente simples. 
+O InstructLab é uma plataforma que permite adicionar skills (habilidades) e knowledge (conhecimentos) nas LLMs de um modo extremamente simples. 
+Podemos, por exemplo, ensinar uma LLM a criar publicações para o linkedin ou e-mails coorporativos seguindo os padrões da sua organização.
+
+**Exemplos de skill e knowledge**
+- Skill:
+  - Como ignorar informações pessoais em resumos
+  - Organizar listas com base na lista fornecida e no método instruído de organização.
+  - Escrever emails formais ou informais.
+  - Outros exemplos: [foundational skills](https://github.com/instructlab/taxonomy/tree/main/foundational_skills) e [compositional skills](https://github.com/instructlab/taxonomy/tree/main/compositional_skills)
+- Knowledge:
+  - [História da IBM](https://github.com/instructlab/taxonomy/tree/main/knowledge/textbook/history/ibm_history)
+  - FAQ sobre empréstimo do banco X
+  - Horóscopo
 
 **Por que usar o InstructLab para o SENAI?**
 
