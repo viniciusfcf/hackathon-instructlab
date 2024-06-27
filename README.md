@@ -26,6 +26,12 @@ Podemos, por exemplo, ensinar uma LLM a criar publicações para o linkedin ou e
 
 **O que é Taxonomia**
 
+A taxonomia assume um papel crucial na organização e categorização de instruções e materiais de aprendizagem. Através da criação de um sistema de classificação bem estruturado, o InstructLab permite que os usuários naveguem facilmente por um vasto acervo de informações, encontrando rapidamente o que procuram.
+
+A taxonomia do InstructLab é composta por diferentes níveis de categorias, desde as mais gerais até as mais específicas. Cada nível representa um grupo de itens relacionados entre si, criando uma hierarquia que facilita a compreensão da estrutura geral do conteúdo.
+
+
+![Exemplo de uma taxonomia](image.png)
 
 **Links Úteis**
 
