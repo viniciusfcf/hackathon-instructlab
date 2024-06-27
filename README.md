@@ -22,7 +22,6 @@ Podemos, por exemplo, ensinar uma LLM a criar publicações para o linkedin ou e
 - Knowledge:
   - [História da IBM](https://github.com/instructlab/taxonomy/tree/main/knowledge/textbook/history/ibm_history)
   - FAQ sobre empréstimo do banco X
-  - Horóscopo
 
 **O que é Taxonomia**
 
@@ -33,13 +32,7 @@ A taxonomia do InstructLab é composta por diferentes níveis de categorias, des
 
 ![Exemplo de uma taxonomia](image.png)
 
-**Links Úteis**
-
-* Site do InstructLab: [https://instructlab.ai/](https://instructlab.ai/)
-* Documentação do InstructLab: [https://github.com/instructlab](https://github.com/instructlab)
-* Exemplos de Projetos InstructLab: TODO (Pesquise por exemplos de projetos InstructLab no site do InstructLab ou em um mecanismo de busca geral)
-
-**Desafio do Hackathon**
+**WIP Desafio do Hackathon**
 
 Sua equipe terá a tarefa de desenvolver um projeto InstructLab que aborde um desafio específico enfrentado pelo SENAI. Este desafio pode estar relacionado a:
 
@@ -49,19 +42,23 @@ Sua equipe terá a tarefa de desenvolver um projeto InstructLab que aborde um de
 
 **Aqui estão alguns passos para você começar:**
 
-1. **Forme uma Equipe:** Colabore com outros participantes para formar uma equipe com habilidades complementares.
-2. **Identifique um Desafio:** Pesquise os programas e materiais de treinamento do SENAI para identificar um desafio específico que você gostaria de abordar.
-3. **Desenvolva sua Solução:** Use o InstructLab para criar uma experiência de aprendizagem interativa que lide com o desafio escolhido.
-4. **Refine e Apresente:** Aprimore seu projeto e prepare uma apresentação clara e concisa para os jurados.
+- **Equipe:** Forme uma equipe com outros participantes com habilidades complementares.
+- **Fork:** Faça um fork deste repositório
+- **Solução:** Identifique skills e knowledge que serão úteis
+- **Pull Request:** Ao finalizar faça um Pull Request com sua submissão
 
-**Critérios de Julgamento**
+**WIP Critérios de Julgamento**
 
 * Criatividade e Inovação: A originalidade de sua abordagem para resolver o desafio escolhido.
 * Uso de Recursos do InstructLab: A eficácia do seu projeto em utilizar as funcionalidades do InstructLab.
 * Impacto Potencial: O potencial da sua solução para causar um impacto positivo nos programas de treinamento do SENAI.
 * Clareza e Apresentação: A clareza e eficácia da sua apresentação na comunicação do seu projeto.
 
-**Mais detalhes**
 
-[SKILL](https://github.com/instructlab/taxonomy/blob/main/docs/SKILLS_GUIDE.md)
-[KNOWLEDGE](https://github.com/instructlab/taxonomy/blob/main/docs/KNOWLEDGE_GUIDE.md)
+**Links Úteis**
+
+* Site do InstructLab: [https://instructlab.ai/](https://instructlab.ai/)
+* Documentação do InstructLab: [https://github.com/instructlab](https://github.com/instructlab)
+* Exemplos de Projetos InstructLab: TODO (Pesquise por exemplos de projetos InstructLab no site do InstructLab ou em um mecanismo de busca geral)
+* [SKILL](https://github.com/instructlab/taxonomy/blob/main/docs/SKILLS_GUIDE.md)
+* [KNOWLEDGE](https://github.com/instructlab/taxonomy/blob/main/docs/KNOWLEDGE_GUIDE.md)
