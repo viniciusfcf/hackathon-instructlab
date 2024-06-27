@@ -24,14 +24,8 @@ Podemos, por exemplo, ensinar uma LLM a criar publicações para o linkedin ou e
   - FAQ sobre empréstimo do banco X
   - Horóscopo
 
-**Por que usar o InstructLab para o SENAI?**
+**O que é Taxonomia**
 
-O SENAI tem uma longa história de oferecimento de formação profissional para a indústria brasileira. O InstructLab pode ser uma ferramenta valiosa para o SENAI para:
-
-* **Aprimorar a Aprendizagem:** Criar experiências de aprendizagem interativas e envolventes que atendam a diferentes estilos de aprendizagem.
-* **Melhorar a Acessibilidade:** Desenvolver materiais de aprendizagem online que possam ser acessados pelos alunos de qualquer lugar, a qualquer hora.
-* **Padronizar a Formação:** Garantir a consistência na entrega de materiais de treinamento em diferentes locais do SENAI.
-* **Qualificar a Força de Trabalho:** Desenvolver materiais de treinamento direcionados para atender às necessidades em constante mudança da indústria.
 
 **Links Úteis**
 
@@ -61,4 +55,7 @@ Sua equipe terá a tarefa de desenvolver um projeto InstructLab que aborde um de
 * Impacto Potencial: O potencial da sua solução para causar um impacto positivo nos programas de treinamento do SENAI.
 * Clareza e Apresentação: A clareza e eficácia da sua apresentação na comunicação do seu projeto.
 
+**Mais detalhes**
 
+[SKILL](https://github.com/instructlab/taxonomy/blob/main/docs/SKILLS_GUIDE.md)
+[KNOWLEDGE](https://github.com/instructlab/taxonomy/blob/main/docs/KNOWLEDGE_GUIDE.md)
